@@ -1,0 +1,2 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"tyler-ThinkPad-X1-Extreme-2nd","pid":99002,"time":"2022-09-15T04:05:48.610016518Z","target":"sugar","line":115,"file":"src/main.rs"}
+{"v":0,"name":"sugar","msg":"Cache file 'cache.json' not found. Run `sugar upload` to create it or provide it with the --cache option.","level":50,"hostname":"tyler-ThinkPad-X1-Extreme-2nd","pid":99002,"time":"2022-09-15T04:05:48.6126874Z","target":"sugar_cli::cache","line":153,"file":"src/cache.rs"}
